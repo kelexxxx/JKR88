@@ -93,7 +93,7 @@ exit;
                     "lowPrice": "35.00",
                     "highPrice": "98.00",
                     "priceCurrency": "THB",
-                    "price": "<?php echo number_format(rand(10, 100), 2); ?>",
+                    "price": "20",
                     "priceValidUntil": "2025-10-02",
                     "itemCondition": "https://schema.org/UsedCondition",
                     "availability": "https://schema.org/InStock"
