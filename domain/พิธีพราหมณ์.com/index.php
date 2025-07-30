@@ -40,7 +40,7 @@ exit;
                 "@type": "Organization",
                 "name": "JKR88: เว็บไซต์พนันฟุตบอลออนไลน์ SBOBET อย่างเป็นทางการและเชื่อถือได้ประจำปี 2025",
                 "alternateName": "JKR88",
-                "url": "<?php echo $domainUrl; ?><?php echo $pg; ?>",
+                "url": "https://www.xn--k3cjrbpl0dxcol3x.com/JKR88",
                 "logo": "https://res.cloudinary.com/dw3vnwn5g/v1752385874/LOGO-JKR88.png",
                 "description": "JKR88 คือเว็บไซต์พนันฟุตบอลออนไลน์ SBOBET อย่างเป็นทางการและน่าเชื่อถือที่สุดในปี 2025 นำเสนอการเดิมพันที่ปลอดภัย การจ่ายเงินที่รวดเร็ว และอัตราต่อรองที่แข่งขันได้",
                 "address": {
@@ -53,19 +53,19 @@ exit;
                     "addressCountry": "TH"
                 },
                 "contactPoint": { "@type": "ContactPoint", "telephone": "+6625620631", "contactType": "customer service", "areaServed": "TH", "availableLanguage": "Thailand" },
-                "sameAs": ["<?php echo $domainUrl; ?><?php echo $pg; ?>"]
+                "sameAs": ["https://www.xn--k3cjrbpl0dxcol3x.com/JKR88"]
             }
         </script>
         <script type="application/ld+json">
             {
                 "@context": "https://schema.org",
                 "@type": "NewsArticle",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "<?php echo $domainUrl; ?><?php echo $pg; ?>" },
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.xn--k3cjrbpl0dxcol3x.com/JKR88" },
                 "headline": "JKR88: เว็บไซต์พนันฟุตบอลออนไลน์ SBOBET อย่างเป็นทางการและเชื่อถือได้ประจำปี 2025",
                 "description": "JKR88 คือเว็บไซต์พนันฟุตบอลออนไลน์ SBOBET อย่างเป็นทางการและน่าเชื่อถือที่สุดในปี 2025 นำเสนอการเดิมพันที่ปลอดภัย การจ่ายเงินที่รวดเร็ว และอัตราต่อรองที่แข่งขันได้",
                 "image": ["https://res.cloudinary.com/dw3vnwn5g/v1753889161/sbobet-jkr88.png"],
-                "author": { "@type": "Person", "name": "<?php echo $host; ?>", "url": "<?php echo $domainUrl; ?>" },
-                "publisher": { "@type": "Organization", "name": "<?php echo $host; ?>", "logo": { "@type": "ImageObject", "url": "https://res.cloudinary.com/dw3vnwn5g/v1753889161/sbobet-jkr88.png" } },
+                "author": { "@type": "Person", "name": "JKR88", "url": "https://www.xn--k3cjrbpl0dxcol3x.com/" },
+                "publisher": { "@type": "Organization", "name": "JKR88", "logo": { "@type": "ImageObject", "url": "https://res.cloudinary.com/dw3vnwn5g/v1753889161/sbobet-jkr88.png" } },
                 "datePublished": "2024-10-02T22:09:04+07:00",
                 "dateModified": "2024-10-02T22:09:04+07:00"
             }
@@ -79,8 +79,8 @@ exit;
                 "description": "JKR88 คือเว็บไซต์พนันฟุตบอลออนไลน์ SBOBET อย่างเป็นทางการและน่าเชื่อถือที่สุดในปี 2025 นำเสนอการเดิมพันที่ปลอดภัย การจ่ายเงินที่รวดเร็ว และอัตราต่อรองที่แข่งขันได้",
                 "sku": "AE-651958598190399581295488164",
                 "mpn": "MP651958598190399581295488164AE",
-                "brand": { "@type": "Brand", "name": "<?php echo $host; ?>" },
-                "review": { "@type": "Review", "reviewRating": { "@type": "Rating", "ratingValue": "4.9", "bestRating": "5" }, "author": { "@type": "Person", "name": "<?php echo $host; ?>" } },
+                "brand": { "@type": "Brand", "name": "JKR88" },
+                "review": { "@type": "Review", "reviewRating": { "@type": "Rating", "ratingValue": "4.9", "bestRating": "5" }, "author": { "@type": "Person", "name": "JKR88" } },
                 "aggregateRating": { 
     "@type": "AggregateRating", 
     "ratingValue": "4.1", 
